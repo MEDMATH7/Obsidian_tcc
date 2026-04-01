@@ -1,0 +1,15 @@
+{
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 60
+  },
+  "alwaysUpdateLinks": true,
+  "vimMode": false,
+  "attachmentFolderPath": "./attachments",
+  "newFileLocation": "folder",
+  "promptDelete": false,
+  "newFileFolderPath": "6-Full_Notes"
+}
