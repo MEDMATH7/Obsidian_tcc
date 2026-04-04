@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6-Full_Notes/Uniao e intersecao de eventos.md",
+                "file": "1-Rough_Notes/Vaso Flash.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Uniao e intersecao de eventos"
+              "title": "Vaso Flash"
             }
           }
         ]
@@ -167,17 +167,22 @@
   },
   "active": "5861cc9f502c0a4d",
   "lastOpenFiles": [
-    "6-Full_Notes/Uniao e intersecao de eventos.md",
-    "6-Full_Notes/Espaco amostral.md",
-    "6-Full_Notes/Experimento.md",
-    "6-Full_Notes/Evento.md",
+    "1-Rough_Notes/Espaco amostral.md",
+    "1-Rough_Notes/Main idea taken to build Obsidian Notes.md",
+    "1-Rough_Notes/Uniao e intersecao de eventos.md",
+    "1-Rough_Notes/Vaso Flash.md",
+    "3-Tags/Operacoes Unitarias II.md",
+    "2-Source_Material/Exercises/OP2/Exemplo 1 - Topico 3.md",
+    "1-Rough_Notes/Experimento.md",
+    "1-Rough_Notes/Evento.md",
+    "2-Source_Material/Exercises/OP2",
+    "2-Source_Material/Exercises",
     "5-Template/Main Note.md",
     "6-Full_Notes/Zettelkasten or Atomic Notes orsynthesized ideas or essays or connected concepts.md",
     "3-Tags/Bloco 1 - Fundamentos de probabilidade.md",
     "6-Full_Notes/Bloco 1.md",
     "3-Tags/Probabilidade e Estatistica.md",
     "3-Tags/Faculdade.md",
-    "1-Rough_Notes/Main idea taken to build Obsidian Notes.md",
     "README.md",
     "older/Book/Scenario.md",
     "older/Book/Main Character.md",
@@ -192,17 +197,12 @@
     "older/Quantica/Capitulo_1_equacao_schodinger/Núcleo atômico.md",
     "older/Quantica/Capitulo_1_equacao_schodinger/Molécula.md",
     "older/Quantica/Capitulo_1_equacao_schodinger/Mecânica quântica.md",
-    "older/Quantica/Capitulo_1_equacao_schodinger/Mecânica Clássica.md",
-    "older/Quantica/Capitulo_1_equacao_schodinger/Elétron.md",
     "older/Quantica/Capitulo_1_equacao_schodinger",
     "older/Quantica",
-    "older/Probest/Experimento.md",
     "older/Probest",
     "older/Gratta",
     "older",
     "Nova pasta",
-    "2-Source_Material/Videos",
-    "2-Source_Material/Podcasts",
     "PO/attachments/Pasted image 20241023192230.png",
     "PO/attachments/Pasted image 20241023190947.png",
     "Courses/attachments/Pasted image 20241007120615.png",
