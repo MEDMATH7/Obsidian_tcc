@@ -46,6 +46,15 @@ $$
 A \cap B = \{4,6\}
 $$
 
+## Evento disjuntos
+
+Dois eventos são disjuntos quando não podem acontecer juntos:
+
+$$
+A \cap B = \emptyset
+$$
+
+
 # References
 
 [[Espaco amostral]]
