@@ -128,4 +128,17 @@ E aí entra a ideia de estabelecer **limites**.
 
 Se os pontos observados ficam em uma faixa compatível com o comportamento esperado do sistema, talvez a variação deva ser deixada ao acaso. Se saem dessa faixa, isso pode indicar causa atribuível.
 
+
+### Como isso conversa com engenharia e com um TCC
+
+
+Esse capítulo é muito forte para fundamentação teórica porque ele te dá uma base epistemológica, isto é, uma base sobre **como interpretar variação**.
+
+Para um TCC ou estudo aplicado, ele ajuda a sustentar ideias como:
+
+- nem toda oscilação operacional indica falha;
+- séries temporais industriais precisam ser analisadas em termos de estabilidade estatística;
+- a meta de um sistema de controle não é zerar a variação, e sim distinguir o que é inerente do que é atribuível;
+- decisão técnica precisa combinar dados, teoria estatística e contexto de processo.
+
 # References
