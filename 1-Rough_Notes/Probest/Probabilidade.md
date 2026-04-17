@@ -3,7 +3,7 @@
 
 Status: #baby #portuguse 
 
-Tags: [[Faculdade]] [[Probabilidade e Estatistica]]
+Tags: [[Faculdade]] [[Probabilidade e Estatistica]] [[Bloco 1 - Fundamentos de probabilidade ]]
 
 # Probabilidade
 
